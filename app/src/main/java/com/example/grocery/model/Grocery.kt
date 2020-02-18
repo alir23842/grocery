@@ -20,6 +20,7 @@ class Grocery {
     @ColumnInfo(name = "price")
     var price: Double = 0.0
 
+
     @ColumnInfo(name = "unit")
     var unit: String = ""
 
